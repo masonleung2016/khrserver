@@ -20,4 +20,5 @@ public interface AdjustSalaryMapper {
     int updateByPrimaryKeySelective(AdjustSalary record);
 
     int updateByPrimaryKey(AdjustSalary record);
+    
 }
