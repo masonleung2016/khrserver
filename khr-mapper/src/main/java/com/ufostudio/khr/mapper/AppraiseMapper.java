@@ -20,4 +20,5 @@ public interface AppraiseMapper {
     int updateByPrimaryKeySelective(Appraise record);
 
     int updateByPrimaryKey(Appraise record);
+    
 }
