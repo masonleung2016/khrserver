@@ -20,4 +20,5 @@ public interface EmployeetrainMapper {
     int updateByPrimaryKeySelective(Employeetrain record);
 
     int updateByPrimaryKey(Employeetrain record);
+    
 }
