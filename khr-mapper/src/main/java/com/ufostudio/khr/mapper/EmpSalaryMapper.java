@@ -20,4 +20,5 @@ public interface EmpSalaryMapper {
     int updateByPrimaryKeySelective(EmpSalary record);
 
     int updateByPrimaryKey(EmpSalary record);
+    
 }
