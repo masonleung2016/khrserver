@@ -20,4 +20,5 @@ public interface EmployeeremoveMapper {
     int updateByPrimaryKeySelective(Employeeremove record);
 
     int updateByPrimaryKey(Employeeremove record);
+    
 }
