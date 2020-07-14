@@ -19,5 +19,6 @@ public interface OpLogMapper {
 
     int updateByPrimaryKeySelective(OpLog record);
 
-    int updateByPrimaryKey(OpLog record);    
+    int updateByPrimaryKey(OpLog record); 
+    
 }
