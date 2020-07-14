@@ -20,4 +20,5 @@ public interface MsgContentMapper {
     int updateByPrimaryKeySelective(MsgContent record);
 
     int updateByPrimaryKey(MsgContent record);
+    
 }
