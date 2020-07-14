@@ -24,4 +24,5 @@ public interface PoliticsstatusMapper {
     int updateByPrimaryKey(Politicsstatus record);
 
     List<Politicsstatus> getAllPoliticsstatus();
+    
 }
