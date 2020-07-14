@@ -27,4 +27,5 @@ public interface PositionMapper {
     List<Position> getAllPositions();
 
     Integer deletePositionsByIds(@Param("ids") Integer[] ids);
+    
 }
