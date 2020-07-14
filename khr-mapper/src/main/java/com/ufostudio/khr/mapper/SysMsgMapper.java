@@ -20,4 +20,5 @@ public interface SysMsgMapper {
     int updateByPrimaryKeySelective(SysMsg record);
 
     int updateByPrimaryKey(SysMsg record);
+    
 }
