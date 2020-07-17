@@ -8,8 +8,8 @@ import java.util.Date;
  * @Package: com.ufostudio.khr.model
  */
 
-
 public class Appraise {
+    
     private Integer id;
 
     private Integer eid;
