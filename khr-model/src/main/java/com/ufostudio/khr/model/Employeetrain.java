@@ -9,6 +9,7 @@ import java.util.Date;
  */
 
 public class Employeetrain {
+    
     private Integer id;
 
     private Integer eid;
