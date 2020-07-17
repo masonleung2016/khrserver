@@ -12,6 +12,7 @@ import java.util.Objects;
  */
 
 public class Department implements Serializable {
+    
     private Integer id;
 
     private String name;
@@ -50,7 +51,9 @@ public class Department implements Serializable {
     private Boolean enabled;
 
     private Boolean isParent;
+    
     private List<Department> children = new ArrayList<>();
+    
     private Integer result;
 
     public Integer getResult() {
