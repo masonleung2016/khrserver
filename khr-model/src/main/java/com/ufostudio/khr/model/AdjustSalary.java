@@ -13,6 +13,7 @@ import java.util.Date;
 
 
 public class AdjustSalary {
+
     private Integer id;
 
     private Integer eid;
