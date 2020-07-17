@@ -13,6 +13,7 @@ import java.util.Objects;
  */
 
 public class JobLevel implements Serializable {
+    
     private Integer id;
 
     private String name;
