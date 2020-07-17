@@ -36,6 +36,7 @@ public class Hr implements UserDetails {
     private String userface;
 
     private String remark;
+    
     private List<Role> roles;
 
     @Override
