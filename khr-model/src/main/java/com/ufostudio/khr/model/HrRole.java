@@ -7,6 +7,7 @@ package com.ufostudio.khr.model;
  */
 
 public class HrRole {
+    
     private Integer id;
 
     private Integer hrid;
