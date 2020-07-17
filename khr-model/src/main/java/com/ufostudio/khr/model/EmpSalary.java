@@ -6,8 +6,8 @@ package com.ufostudio.khr.model;
  * @Package: com.ufostudio.khr.model
  */
 
-
 public class EmpSalary {
+    
     private Integer id;
 
     private Integer eid;
