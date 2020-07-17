@@ -12,6 +12,7 @@ import java.util.Date;
  */
 
 public class Employee implements Serializable {
+    
     private Integer id;
 
     private String name;
@@ -112,11 +113,17 @@ public class Employee implements Serializable {
     private Date endContract;
 
     private Integer workAge;
+    
     private Nation nation;
+    
     private Politicsstatus politicsstatus;
+    
     private Department department;
+    
     private JobLevel jobLevel;
+    
     private Position position;
+    
     private Salary salary;
 
     public Salary getSalary() {
